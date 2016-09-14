@@ -21,12 +21,12 @@ Please raise any issues, questions or comments as a [new issue in this repositor
 | classTime | "10:11:00" |  |
 | meetingPoint | "Basketball Courts" |  |
 | exertion | "MODERATE" |  |
-| exertionId | "" |  |
 | classType | "Bootcamp" |  |
 | description | `<p>A fitness bootcamp class that mixes traditional calisthenic and body weight exercises, with interval and strength training.</p>\r\n` |  |
 | descriptionFormat | "filtered_html" |  |
-| classCoachName | "channon_nicole" |  |
-| classCoachNameImageURL | "http://ourparks.org.uk/sites/default/files/pictures/picture-254-1396133906.jpg" |  |
+| classCoachFirstName | "Channon" |  |
+| classCoachUsername | "channon_nicole" |  |
+| classCoachImageURL | "http://ourparks.org.uk/sites/default/files/pictures/picture-254-1396133906.jpg" |  |
 | eventLogo | "http://ourparks.org.uk/sites/default/files/classes/boot-camp_0.png" |  |
 | video | "" |  |
 | sessionUrl | "http://ourparks.org.uk/borough/ridgeway-park/bootcamp-132" |  |
