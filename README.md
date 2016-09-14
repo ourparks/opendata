@@ -26,39 +26,36 @@ Please raise any issues, questions or comments as a [new issue in this repositor
 | description | "<p>A fitness bootcamp class that mixes traditional calisthenic and body weight exercises, with interval and strength training.</p>\r\n" |  |
 | descriptionFormat | "filtered_html" |  |
 | classCoachName | "channon_nicole" |  |
-| classCoachNameImageURL | "http://ourparks-dev.tranquildigital.com/sites/default/files/pictures/picture-254-1396133906.jpg" |  |
-| eventLogo | "http://ourparks-dev.tranquildigital.com/sites/default/files/classes/boot-camp_0.png" |  |
+| classCoachNameImageURL | "http://ourparks.org.uk/sites/default/files/pictures/picture-254-1396133906.jpg" |  |
+| eventLogo | "http://ourparks.org.uk/sites/default/files/classes/boot-camp_0.png" |  |
 | video | "" |  |
-| sessionUrl | "http://ourparks-dev.tranquildigital.com/borough/ridgeway-park/bootcamp-132" |  |
+| sessionUrl | "http://ourparks.org.uk/borough/ridgeway-park/bootcamp-132" |  |
 | park.title | "Ridgeway Park" |  |
 | park.id | "47" |  |
 | park.description | "<p>Free exercise in Ridgeway Park, Waltham Forest London. Fitness classes include: Yoga, Pilates Bootcamp, Running, Abs workout, Cardio Tennis, Zumba, Circuits, Dance Fit and Buggy Exercise. &nbsp;</p>\r\n\r\n<p><strong>Postcode:</strong>&nbsp;E4 6XU</p>\r\n\r\n<p>&nbsp;</p>\r\n" |  |
 | park.descriptionFormat | "filtered_html" |  |
-| park.parkLogo | "http://ourparks-dev.tranquildigital.com/sites/default/files/parks/Ridgeway%20Park%20crop_0.jpg |  |
-| park.address | {
-| park.address1 | "The Ridgeway" |  |
-| park.address2 | "" |  |
-| park.city | "Chingford" |  |
-| park.county | "Old Church Road" |  |
-| park.country | "GB" |  |
-| park.postcode | "E4 6XU" |
+| park.parkLogo | "http://ourparks.org.uk/sites/default/files/parks/Ridgeway%20Park%20crop_0.jpg |  |
+| park.address.address1 | "The Ridgeway" |  |
+| park.address.address2 | "" |  |
+| park.address.city | "Chingford" |  |
+| park.address.county | "Old Church Road" |  |
+| park.address.country | "GB" |  |
+| park.address.postcode | "E4 6XU" |
 | borough.title | "Waltham Forest " |  |
 | borough.id | "46" |  |
 | borough.introText | "<p>Free exercise classes across Waltham Forest London Parks including: Yoga, Abs Workout, Circuit, Bootcamps, Run Classes. All outdoor fitness sessions are for women and men.&nbsp;</p>\r\n\r\n<p>Waltham Forest has the most green space of any London borough north of the Thames, and we want you to make the most of this and enjoy what’s on offer right on your doorstep.</p>\r\n" |  |
 | borough.introTextFormat | "filtered_html" |  |
-| borough.boroughLogo | "http://ourparks-dev.tranquildigital.com/sites/default/files/boroughs/walthamforest.png |  |
+| borough.boroughLogo | "http://ourparks.org.uk/sites/default/files/boroughs/walthamforest.png |  |
 | borough.boroughVideoSlug | "_zzMFrmyWIg" |  |
 | borough.boroughVideoTitle | "" |  |
 | borough.boroughVideo | "https://youtu.be/_zzMFrmyWIg" |  |
 | borough.boroughTwitterAccount | "edinjoy" |  |
-| borough.address | {
-| borough.address1 | "" |  |
-| borough.address2 | "" |  |
-| borough.city | "London" |  |
-| borough.county | "" |  |
-| borough.country | "GB" |  |
-| borough.postcode | "E10 6AE" |
-
+| borough.address.address1 | "" |  |
+| borough.address.address2 | "" |  |
+| borough.address.city | "London" |  |
+| borough.address.county | "" |  |
+| borough.address.country | "GB" |  |
+| borough.address.postcode | "E10 6AE" | |
 
 ## Changelog
 
