@@ -13,8 +13,6 @@ Please raise any issues, questions or comments as a [new issue in this repositor
 
 | Data Field | Example Value | Description |
 |---|---|---|
-|"CalendarEventID" | 42831 | Internal ID of the session |
-
 | name | "Bootcamp" |  |
 | postcode | "E4 6XU" |  |
 | maxAttendees | "30" |  |
