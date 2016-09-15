@@ -47,7 +47,7 @@ Please raise any issues, questions or comments as a [new issue in this repositor
 | borough.id | "46" |  |
 | borough.introText |` <p>Free exercise classes across Waltham Forest London Parks including: Yoga, Abs Workout, Circuit, Bootcamps, Run Classes. All outdoor fitness sessions are for women and men.&nbsp;</p>\r\n\r\n<p>Waltham Forest has the most green space of any London borough north of the Thames, and we want you to make the most of this and enjoy what’s on offer right on your doorstep.</p>\r\n` |  |
 | borough.introTextFormat | "filtered_html" |  |
-| borough.boroughLogo | "http://ourparks.org.uk/sites/default/files/boroughs/walthamforest.png |  |
+| borough.boroughLogo | "http://ourparks.org.uk/sites/default/files/boroughs/walthamforest.png" |  |
 | borough.boroughVideoSlug | "_zzMFrmyWIg" |  |
 | borough.boroughVideoTitle | "" |  |
 | borough.boroughVideo | "https://youtu.be/_zzMFrmyWIg" |  |
