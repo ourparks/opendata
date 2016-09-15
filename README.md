@@ -16,11 +16,11 @@ Please raise any issues, questions or comments as a [new issue in this repositor
 | name | "Bootcamp" |  |
 | postcode | "E4 6XU" |  |
 | maxAttendees | "30" |  |
-| classStatus | "active" | `['active' : 'inactive']` |
+| classStatus | "active" | `'active' : 'inactive'` |
 | classDate | "29-11-2014" |  |
 | classTime | "10:11:00" |  |
 | meetingPoint | "Basketball Courts" |  |
-| exertion | "MODERATE" | `['Green = light gentle exercise' => 'EASY', 'Blue = moderate exercise' => 'MODERATE', 'Black = high heart rate exercise' => 'HARD']` |
+| exertion | "MODERATE" | `'Green = light gentle exercise' => 'EASY', 'Blue = moderate exercise' => 'MODERATE', 'Black = high heart rate exercise' => 'HARD'` |
 | classType | "Bootcamp" |  |
 | description | `<p>A fitness bootcamp class that mixes traditional calisthenic and body weight exercises, with interval and strength training.</p>\r\n` |  |
 | descriptionFormat | "filtered_html" |  |
