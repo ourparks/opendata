@@ -1,7 +1,7 @@
 # Our Parks Class Data
 
 ## Open Data Endpoint
-http://ourparks.org.uk/getSessions - a feed of classes from the ourparks.org.uk site
+https://ourparks.org.uk/getSessions - a feed of classes from the ourparks.org.uk site
 
 ## Standards
 The data is published to conform to [Openactive Realtime Paged Data Exchange 0.2.3](https://www.openactive.io/realtime-paged-data-exchange/0.2.3/).
